@@ -153,7 +153,7 @@ internal class Program
         {
             if (mainLoop() == "end")
             {
-                Console.WriteLine("ending game");
+                Console.WriteLine("the end");
                 Console.ReadKey();
                 break;
             };
